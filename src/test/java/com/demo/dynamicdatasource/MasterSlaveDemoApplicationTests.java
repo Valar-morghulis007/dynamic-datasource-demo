@@ -1,4 +1,4 @@
-package com.wenlinshan.masterslavedemo;
+package com.demo.dynamicdatasource;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

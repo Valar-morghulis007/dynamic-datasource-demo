@@ -1,4 +1,4 @@
-package com.wenlinshan.masterslavedemo.constant;
+package com.demo.dynamicdatasource.constant;
 
 /**
  * @author wls

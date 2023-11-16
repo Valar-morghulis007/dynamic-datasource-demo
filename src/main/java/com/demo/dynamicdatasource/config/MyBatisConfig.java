@@ -1,4 +1,4 @@
-package com.wenlinshan.masterslavedemo.config;
+package com.demo.dynamicdatasource.config;
 
 import com.baomidou.mybatisplus.core.MybatisConfiguration;
 import com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean;

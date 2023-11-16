@@ -1,4 +1,4 @@
-package com.wenlinshan.masterslavedemo.domain;
+package com.demo.dynamicdatasource.domain;
 
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableField;

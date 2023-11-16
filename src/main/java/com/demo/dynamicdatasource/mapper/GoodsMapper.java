@@ -1,7 +1,7 @@
-package com.wenlinshan.masterslavedemo.mapper;
+package com.demo.dynamicdatasource.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.wenlinshan.masterslavedemo.domain.Goods;
+import com.demo.dynamicdatasource.domain.Goods;
 
 public interface GoodsMapper extends BaseMapper<Goods> {
 }

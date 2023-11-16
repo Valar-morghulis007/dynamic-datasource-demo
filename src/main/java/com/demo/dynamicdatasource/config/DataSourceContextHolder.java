@@ -1,6 +1,6 @@
-package com.wenlinshan.masterslavedemo.config;
+package com.demo.dynamicdatasource.config;
 
-import com.wenlinshan.masterslavedemo.constant.DBTypeEnum;
+import com.demo.dynamicdatasource.constant.DBTypeEnum;
 
 import java.util.concurrent.atomic.AtomicInteger;
 

@@ -1,7 +1,7 @@
-package com.wenlinshan.masterslavedemo.config;
+package com.demo.dynamicdatasource.config;
 
 import com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceBuilder;
-import com.wenlinshan.masterslavedemo.constant.DBTypeEnum;
+import com.demo.dynamicdatasource.constant.DBTypeEnum;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Bean;

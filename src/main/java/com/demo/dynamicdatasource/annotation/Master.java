@@ -1,4 +1,4 @@
-package com.wenlinshan.masterslavedemo.annotation;
+package com.demo.dynamicdatasource.annotation;
 
 /**
  * @author wls

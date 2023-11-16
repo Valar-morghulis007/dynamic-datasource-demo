@@ -1,4 +1,4 @@
-package com.wenlinshan.masterslavedemo;
+package com.demo.dynamicdatasource;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;

@@ -1,6 +1,6 @@
-package com.wenlinshan.masterslavedemo.service;
+package com.demo.dynamicdatasource.service;
 
-import com.wenlinshan.masterslavedemo.domain.Goods;
+import com.demo.dynamicdatasource.domain.Goods;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 import java.util.List;

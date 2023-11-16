@@ -1,4 +1,4 @@
-package com.wenlinshan.masterslavedemo.config;
+package com.demo.dynamicdatasource.config;
 
 import org.springframework.jdbc.datasource.lookup.AbstractRoutingDataSource;
 import org.springframework.lang.Nullable;

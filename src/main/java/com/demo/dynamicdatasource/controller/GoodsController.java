@@ -1,9 +1,7 @@
-package com.wenlinshan.masterslavedemo.controller;
+package com.demo.dynamicdatasource.controller;
 
-import com.wenlinshan.masterslavedemo.annotation.Master;
-import com.wenlinshan.masterslavedemo.domain.Goods;
-import com.wenlinshan.masterslavedemo.service.GoodsService;
-import org.springframework.transaction.annotation.Transactional;
+import com.demo.dynamicdatasource.domain.Goods;
+import com.demo.dynamicdatasource.service.GoodsService;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
