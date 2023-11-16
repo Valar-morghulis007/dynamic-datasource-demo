@@ -1,7 +1,7 @@
-package com.demo.dynamicdatasource.controller;
+package com.morghulis.masterslavedemo.controller;
 
-import com.demo.dynamicdatasource.domain.Goods;
-import com.demo.dynamicdatasource.service.GoodsService;
+import com.morghulis.masterslavedemo.domain.Goods;
+import com.morghulis.masterslavedemo.service.GoodsService;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;

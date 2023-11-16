@@ -1,6 +1,6 @@
-package com.demo.dynamicdatasource.config;
+package com.morghulis.masterslavedemo.config;
 
-import com.demo.dynamicdatasource.constant.DBTypeEnum;
+import com.morghulis.masterslavedemo.constant.DBTypeEnum;
 
 import java.util.concurrent.atomic.AtomicInteger;
 

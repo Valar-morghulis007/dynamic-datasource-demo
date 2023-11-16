@@ -1,4 +1,4 @@
-package com.demo.dynamicdatasource;
+package com.morghulis.masterslavedemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

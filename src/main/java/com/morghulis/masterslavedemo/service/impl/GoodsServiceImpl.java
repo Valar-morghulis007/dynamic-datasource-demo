@@ -1,13 +1,13 @@
-package com.demo.dynamicdatasource.service.impl;
+package com.morghulis.masterslavedemo.service.impl;
 
-import com.demo.dynamicdatasource.annotation.Master;
+import com.morghulis.masterslavedemo.annotation.Master;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.demo.dynamicdatasource.domain.Goods;
-import com.demo.dynamicdatasource.mapper.GoodsMapper;
-import com.demo.dynamicdatasource.service.GoodsService;
+import com.morghulis.masterslavedemo.domain.Goods;
+import com.morghulis.masterslavedemo.mapper.GoodsMapper;
+import com.morghulis.masterslavedemo.service.GoodsService;
 import org.springframework.transaction.annotation.Transactional;
 
 /**

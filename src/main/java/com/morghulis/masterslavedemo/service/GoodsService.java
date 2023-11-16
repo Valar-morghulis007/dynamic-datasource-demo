@@ -1,6 +1,6 @@
-package com.demo.dynamicdatasource.service;
+package com.morghulis.masterslavedemo.service;
 
-import com.demo.dynamicdatasource.domain.Goods;
+import com.morghulis.masterslavedemo.domain.Goods;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 import java.util.List;

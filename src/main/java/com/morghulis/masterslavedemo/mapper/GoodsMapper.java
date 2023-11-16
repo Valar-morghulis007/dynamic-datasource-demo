@@ -1,7 +1,7 @@
-package com.demo.dynamicdatasource.mapper;
+package com.morghulis.masterslavedemo.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.demo.dynamicdatasource.domain.Goods;
+import com.morghulis.masterslavedemo.domain.Goods;
 
 public interface GoodsMapper extends BaseMapper<Goods> {
 }

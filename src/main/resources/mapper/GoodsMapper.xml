@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="com.demo.dynamicdatasource.mapper.GoodsMapper">
-  <resultMap id="BaseResultMap" type="com.demo.dynamicdatasource.domain.Goods">
+<mapper namespace="com.morghulis.masterslavedemo.mapper.GoodsMapper">
+  <resultMap id="BaseResultMap" type="com.morghulis.masterslavedemo.domain.Goods">
     <!--@mbg.generated-->
     <!--@Table goods-->
     <id column="id" jdbcType="BIGINT" property="id" />

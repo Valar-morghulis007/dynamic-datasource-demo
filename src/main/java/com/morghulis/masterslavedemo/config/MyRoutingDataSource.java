@@ -1,4 +1,4 @@
-package com.demo.dynamicdatasource.config;
+package com.morghulis.masterslavedemo.config;
 
 import org.springframework.jdbc.datasource.lookup.AbstractRoutingDataSource;
 import org.springframework.lang.Nullable;

@@ -1,4 +1,4 @@
-package com.demo.dynamicdatasource.constant;
+package com.morghulis.masterslavedemo.constant;
 
 /**
  * @author wls

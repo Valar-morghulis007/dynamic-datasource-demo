@@ -1,4 +1,4 @@
-package com.demo.dynamicdatasource.config;
+package com.morghulis.masterslavedemo.config;
 
 import com.baomidou.mybatisplus.core.MybatisConfiguration;
 import com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean;
