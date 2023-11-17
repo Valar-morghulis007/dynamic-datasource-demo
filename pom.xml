@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.wenlinshan</groupId>
-    <artifactId>master-slave-demo</artifactId>
+    <artifactId>dynamic-datasource-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>master-slave-demo</name>
     <description>master-slave-demo</description>
