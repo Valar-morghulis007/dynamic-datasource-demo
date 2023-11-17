@@ -9,11 +9,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  */
 @SpringBootApplication
 @MapperScan("com.example.dynamicdatasourcedemo.mapper")
-public class MasterSlaveDemoApplication {
+public class DynamicDataSourceDemoApplication {
 
     public static void main(String[] args) {
 
-        SpringApplication.run(MasterSlaveDemoApplication.class, args);
+        SpringApplication.run(DynamicDataSourceDemoApplication.class, args);
     }
 
 }
