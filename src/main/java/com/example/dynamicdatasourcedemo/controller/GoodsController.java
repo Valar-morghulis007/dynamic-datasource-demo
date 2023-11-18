@@ -2,10 +2,7 @@ package com.example.dynamicdatasourcedemo.controller;
 
 import com.example.dynamicdatasourcedemo.domain.Goods;
 import com.example.dynamicdatasourcedemo.service.GoodsService;
-import org.springframework.web.bind.annotation.DeleteMapping;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import javax.annotation.Resource;
 import java.util.List;
@@ -24,7 +21,7 @@ public class GoodsController {
      * @return  是否成功
      */
     @PostMapping("/saveGoods")
-    public boolean saveGoods(Goods goods){
+    public boolean saveGoods(@RequestBody Goods goods){
         return goodsService.saveGoods(goods);
     }
 
@@ -46,7 +43,8 @@ public class GoodsController {
      */
     @GetMapping("/getGoodsAll")
     public List<Goods> getGoodsAll() {
-        return goodsService.getGoodsAll();
+        List<Goods> goodsAll = goodsService.getGoodsAll();
+        return goodsAll;
     }
 
     /**

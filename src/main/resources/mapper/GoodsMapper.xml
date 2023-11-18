@@ -10,7 +10,6 @@
     <result column="price" jdbcType="DECIMAL" property="price" />
   </resultMap>
   <sql id="Base_Column_List">
-    <!--@mbg.generated-->
     id, `name`, quantity, price
   </sql>
 </mapper>
